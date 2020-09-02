@@ -1,4 +1,4 @@
-This is a Linux project in which a system administrator was required to performfollowing activities:
+ is a Linux project in which a system administrator was required to performfollowing activities:
 1. On-board two new developer by making their respective accounts and giving them access to common repository.
 2. Create cron jobs that delete empty files and directories from /tmp folder everyday.
 3.Create cron jobs that upgrades the system once in a week.
